@@ -1,2 +1,4 @@
-# AlejandroGonzalez
-Mi primer subida de Git
+hola mundo 
+
+
+como esta
